@@ -1,0 +1,29 @@
+{
+  "id": "erotico.select",
+  "version": "1.0.0",
+  "name": "Erotico Select",
+  "description": "Filma erotik\u00eb artistik\u00eb europian\u00eb (Tinto Brass, Emmanuelle, Serena Grandi)",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Filmreel_icon.svg/1024px-Filmreel_icon.svg.png",
+  "resources": [
+    "catalog",
+    "stream"
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "erotico-catalog",
+      "name": "Erotico Select",
+      "genres": [
+        "Erotic",
+        "Art",
+        "Drama"
+      ]
+    }
+  ],
+  "idPrefixes": [
+    "tt"
+  ]
+}
